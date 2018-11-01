@@ -1,0 +1,1 @@
+Create cookies template
