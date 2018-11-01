@@ -20,5 +20,15 @@ This site offers newsletter or email subscription services and cookies may be us
 When you submit data to through a form such as those found on contact pages or comment forms cookies may be set to remember your user details for future correspondence.
 In order to provide you with a great experience on this site we provide the functionality to set your preferences for how this site runs when you use it. In order to remember your preferences we need to set cookies so that this information can be called whenever you interact with a page is affected by your preferences.
 
+Third Party Cookies
+In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.
+
+This site uses Google Analytics which is one of the most widespread and trusted analytics solution on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content.
+
+For more information on Google Analytics cookies, see the official Google Analytics page.
+We also use social media buttons and/or plugins on this site that allow you to connect with your social network in various ways. For these to work the following social media sites including; Facebook, Twitter, will set cookies through our site which may be used to enhance your profile on their site or contribute to the data they hold for various purposes outlined in their respective privacy policies.
+
+More Information
+Hopefully that has clarified things for you and as was previously mentioned if there is something that you aren't sure whether you need or not it's usually safer to leave cookies enabled in case it does interact with one of the features you use on our site. However if you are still looking for more information then you can contact us through one of our preferred contact methods.
 
 Email: youremail@domain.com
